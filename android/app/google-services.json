@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699977805074",
+    "project_id": "myquickquiz-66724",
+    "storage_bucket": "myquickquiz-66724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699977805074:android:40d88d1e730fa6299357cb",
+        "android_client_info": {
+          "package_name": "com.example.quickquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699977805074-vh1v98q7bo6k440t10tcocig79mg2tvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5INKUH8FrC6pnhfOxbSVcIaRgl_wTahY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699977805074-vh1v98q7bo6k440t10tcocig79mg2tvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
